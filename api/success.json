@@ -2,9 +2,9 @@
   "@odata.context": "https://was-p.bcnet.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata$metadata#_CotacaoDolarDia(cotacaoCompra,cotacaoVenda,dataHoraCotacao)",
   "value": [
     {
-      "cotacaoCompra": 5.1711,
-      "cotacaoVenda": 5.1717,
-      "dataHoraCotacao": "2026-06-29 13:06:58.963012"
+      "cotacaoCompra": 5.1664,
+      "cotacaoVenda": 5.167,
+      "dataHoraCotacao": "2026-07-06 13:10:16.255475"
     }
   ]
 }
